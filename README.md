@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Andriod App
-- 📫 How to reach me shinobigamerr565@gmail.com
+- 📫 How to reach me shinobigamerr565@gmail.com / deepjha007@gmail.com
 
 <!---
 007DSJ/007DSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
