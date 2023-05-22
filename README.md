@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @007DSJ
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Andriod App
+- 👀 I’m interested in Machine Learning,App Development
+- 🌱 I’m currently learning Kotlin,Python
+- 💞️ I’m looking to collaborate on Andriod Apps,AI and Web based projects
 - 📫 How to reach me deepjha007@gmail.com
 
 <!---
